@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuya0429&layout=compact&count_private=true&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuya0429&layout=compact&count_private=true&hide=html,css&langs_count=10)
